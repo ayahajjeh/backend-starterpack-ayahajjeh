@@ -1,6 +1,6 @@
 # backend-starterpack-ayahajjeh
 
-* starter express app template *
+*starter express app template*
 
 * node with babel
 * expressjs
